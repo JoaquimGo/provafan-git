@@ -3,6 +3,10 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
+    background-image: url('code.png');
+    background-size: cover;
+    background-position: center;
+    color: #10747900;
   }
   
   header {
